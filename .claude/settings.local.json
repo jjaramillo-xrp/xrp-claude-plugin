@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(mkdir -p \"/Users/jdj78/Library/Mobile Documents/com~apple~CloudDocs/Box Docs Clone/dev/plugin_dev/xrp-plugin/.claude-plugin\")",
-      "Bash(mkdir -p \"/Users/jdj78/Library/Mobile Documents/com~apple~CloudDocs/Box Docs Clone/dev/plugin_dev/xrp-plugin/skills\")",
-      "Bash(cd:*)"
-    ]
-  }
-}
