@@ -1,0 +1,9 @@
+{
+  "name": "xrp",
+  "version": "1.0.0",
+  "description": "XRP robotics platform reference — MicroPython APIs for motors, sensors, board control, hardware pins, and mpremote workflows",
+  "author": {
+    "name": "jdj78"
+  },
+  "skills": "./skills/"
+}
